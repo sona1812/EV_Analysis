@@ -19,4 +19,4 @@ Analyse data and provide insights to an Automotive company on Electric Vehicles 
  * Import the data into Excel and perform data cleaning and manipulation using **VLOOKUP, Power Query and various date functions**.
  * Analyze the data using **PivotTables** and apply **conditional formatting** for better insights and create interactive dashboards for visualization.
 
- ## State Performance Analysis  ![](
+ ## State Performance Analysis  ![](EV_State_db.jpg)
