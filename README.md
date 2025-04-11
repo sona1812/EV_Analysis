@@ -20,3 +20,5 @@ Analyse data and provide insights to an Automotive company on Electric Vehicles 
  * Analyze the data using **PivotTables** and apply **conditional formatting** for better insights and create interactive dashboards for visualization.
 
  ## State Performance Analysis  ![](EV_State_db.jpg)
+
+ ## Makers Performance Analysis ![](EV_Makers_db.jpg)
