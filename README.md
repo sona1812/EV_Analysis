@@ -50,6 +50,6 @@ Analyse data and provide insights to an Automotive company on Electric Vehicles 
    campaigns, promotional offers, and inventory planning to capitalize on this seasonal peak. Initiatives such as year-end discounts, exchange benefits, and targeted digital advertising during February and early 
    March can further enhance sales performance.
  * **Goa, Arunachal Pradesh, and Andaman and Nicobar Islands** exhibit a very **high Compound Annual Growth Rate (CAGR)**, indicating emerging and growing markets. Goa, however, is an exception, as the other 
-   states have relatively low penetration rates, providing significant room for adoption and expansion
+   states have relatively low penetration rates, providing significant room for adoption and expansion.
 
 
